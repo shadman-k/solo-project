@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+}
+
+#root {
+  wdith: 100%;
+  height: 100%
+}
+
+/* body {
+  display: flex;
+  height: 100%
+} */
+
+#about {
+  align-self: flex-end;
+  margin-bottom: 20px;
+}
